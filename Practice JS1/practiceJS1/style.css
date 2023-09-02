@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+}
+
+div p {
+    color: blueviolet;
+    background-color: black;
+    font-size: 19px;
+    height: auto;
+    width: auto;
+}
